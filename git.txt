@@ -1,0 +1,29 @@
+Basic comands:
+git init: Crear un proyecto git nuevo (prmite que utilices comandos git en tu proyecto)
+git add <file name>: Pasa los archivos del working directory al staging area
+git status: Es para ver en que estado estan tus archivos. Si estan en el working directory, el staging area, etc.
+git commit: Para pasar el archivo del stagging area al Repositorio,
+	Configurar usuario:
+	-  git config --global user.email "you@example.com"
+  	-  git config --global user.name "Your Name"
+	
+	Commit con comentrio:
+	- git commit -m "[Texto]"
+
+git push: es para subirlo a un repositorio remoto.
+git pull: Trae los cambios echos por los otrtos desarrolladores.
+git clone: Crea una copia desde el servidor sentral a tu computador.
+
+git log: Te lista la lista de cambios echos con commit.
+
+git branch: Muestra lista de verciones del proyecto.
+
+git checkout: g
+
+Archivo .gitignore/
+
+
+Conseptos importantes:
+Working directory (Directorio de trabajo en el que se incluyen los archivos que se trabajaran con git)
+Staging Area
+Repository
