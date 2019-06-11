@@ -23,9 +23,16 @@ Conseptos importantes:
 Working directory (Directorio de trabajo en el que se incluyen los archivos que se trabajaran con git)
 Staging Area
 Repository
+Branch
 
 Git Files:
 	-.gitignore/
 
 
 Check all files in commit.
+
+Acciones:
+	-Crear directorio de trabajo
+	-agregar al area de trabajo
+	-crear branch o vifrcacion/rama
+	-enviar al repositorio remoto
