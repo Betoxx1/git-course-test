@@ -6,24 +6,20 @@ git commit: Para pasar el archivo del stagging area al Repositorio,
 	Configurar usuario:
 	-  git config --global user.email "you@example.com"
   	-  git config --global user.name "Your Name"
-	
 	Commit con comentrio:
 	- git commit -m "[Texto]"
-
 git push: es para subirlo a un repositorio remoto.
 git pull: Trae los cambios echos por los otrtos desarrolladores.
 git clone: Crea una copia desde el servidor sentral a tu computador.
-
 git log: Te lista la lista de cambios echos con commit.
-
 git branch: Muestra lista de verciones del proyecto.
-
 git checkout: g
-
-Archivo .gitignore/
-
+git diff [Archivo]:
 
 Conseptos importantes:
 Working directory (Directorio de trabajo en el que se incluyen los archivos que se trabajaran con git)
 Staging Area
 Repository
+
+Git Files:
+	-.gitignore/
