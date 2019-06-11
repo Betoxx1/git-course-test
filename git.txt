@@ -16,6 +16,9 @@ git branch: Muestra lista de verciones del proyecto.
 git checkout: g
 git diff [Archivo]:
 
+
+
+
 Conseptos importantes:
 Working directory (Directorio de trabajo en el que se incluyen los archivos que se trabajaran con git)
 Staging Area
@@ -23,3 +26,6 @@ Repository
 
 Git Files:
 	-.gitignore/
+
+
+Check all files in commit.
